@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "640860676696",
+    "firebase_url": "https://piedrapapeltijera-c591c.firebaseio.com",
+    "project_id": "piedrapapeltijera-c591c",
+    "storage_bucket": "piedrapapeltijera-c591c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640860676696:android:3a6084379096f599",
+        "android_client_info": {
+          "package_name": "com.example.tpdm_u5_practica2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640860676696-mus9bdluoh2qmectu7illpbca6b32gid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNZCdS1za4_e_tifKKJvbN0Z71ojhv5C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640860676696-mus9bdluoh2qmectu7illpbca6b32gid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
